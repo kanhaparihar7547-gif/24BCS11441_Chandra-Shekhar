@@ -1,18 +1,17 @@
 # Experiment 1
 
-Name: ABHINEET
-
-UID: 24BCS10039
+Name: Prabhjot Singh
+UID: 24BCS10293
 
 ## Aim
 
-To populate hospital database tables with given records and retrieve the first record from the first three tables.
+To insert the given records into the hospital database tables and retrieve the first record from the first three tables.
 
 ## Question
 
 Step 1:
-Insert the following data into the tables exactly as given below.
-Note: Use the exact table names, field names, and data as mentioned.
+Insert the following data into the tables exactly as provided below.
+Note: Use the exact table names, field names, and data specified.
 
 Step 2:
 After inserting the data, write queries to retrieve the first records from the first three tables:
@@ -149,7 +148,7 @@ SELECT * FROM Appointments WHERE AppointmentID = 1;
 │ 1             │ 1         │ 1        │ 2025-02-15      │ Scheduled │
 └───────────────┴───────────┴──────────┴─────────────────┴───────────┘
 
-Well done, it's correct!
+The output confirms that the queries were executed successfully.
 ```
 
 ## Output Screenshot
@@ -158,7 +157,7 @@ Well done, it's correct!
 
 ## Image Explanation
 
-The screenshot shows the SQL editor with all insertion queries executed for the six tables. It also includes the retrieval queries for the first records from Doctors, Patients, and Appointments. In the output panel, the result confirms that the first doctor record is returned successfully, indicating the insertion and select operations are working as expected.
+The screenshot shows the SQL editor with insertion queries executed for all six tables. It also includes the retrieval queries for the first records from Doctors, Patients, and Appointments. The output panel confirms that the first doctor record was returned successfully, showing that the insert and select operations worked as expected.
 
 ## Result
 
