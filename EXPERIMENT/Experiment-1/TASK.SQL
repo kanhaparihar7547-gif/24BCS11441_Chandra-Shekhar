@@ -1,4 +1,4 @@
---Complete the queries below to insert data into the tables & retrieving the first records from the first 3 tables.
+--Complete the queries below to insert data into the tables & retrieving the first records from the first 3 tables
 
 -- Inserting Data into Doctors Table
 INSERT INTO Doctors (DoctorID, Name, Specialization, ContactNumber, Email) VALUES
