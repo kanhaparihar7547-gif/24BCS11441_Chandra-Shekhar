@@ -1,7 +1,7 @@
 # Experiment 1
 
-Name: Prabhjot Singh
-UID: 24BCS10293
+Name: Chandra Shekhar
+UID: 24BCS11441
 
 ## Aim
 
